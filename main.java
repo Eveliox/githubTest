@@ -3,7 +3,7 @@ public class Main {
         
         System.out.println("Hello, World!");
          
-        int x = 10;
+        int x = 12;
 
       
 
